@@ -19,8 +19,7 @@ docker run --rm -p 8501:8501 stdemo
 
 ## Development
 
-- Remember to keep the `requirements.txt` file up to date!
-- A tiny slice of the fake people can be found in `data/fake_people_tiny.csv`.
+Remember to keep the `requirements.txt` file up to date!
 
 ## Theming
 
